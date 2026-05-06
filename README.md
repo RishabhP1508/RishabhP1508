@@ -3,22 +3,26 @@
   Software engineer building backend systems and AI infrastructure.
 </p>
 
-About me
+---
 
-🛠️ Currently building AI-powered backend systems at NND TechLab — RAG pipelines, distributed task orchestration, and LLM observability
-🧱 Previously shipped a distributed workflow engine at Code Mantra handling 9,000+ DAG-based tasks daily on Kafka, Spring Boot, and AWS EKS
-🌱 Going deeper on Go and agentic LLM systems (orchestration, evaluation, observability)
-💬 Ask me about RAG pipelines, FastAPI + Celery + Redis architectures, Kafka, or Terraform
-📍 Based in Boston, open to backend / infrastructure / applied AI roles
+### About me
 
-Connect
+- 🛠️ Currently building **AI-powered backend systems** at NND TechLab - RAG pipelines, distributed task orchestration, and LLM observability
+- 🧱 Previously shipped a **distributed workflow engine** at Code Mantra handling 9,000+ DAG-based tasks daily on Kafka, Spring Boot, and AWS EKS
+- 🌱 Going deeper on **Go** and **agentic LLM systems** (orchestration, evaluation, observability)
+- 💬 Ask me about **RAG pipelines, FastAPI + Celery + Redis architectures, Kafka, or Terraform**
+- 📍 Based in Boston, open to backend / infrastructure / applied AI roles
 
-🌐 Portfolio: rishabhpateldev.vercel.app
-💼 LinkedIn: rishabhpatel15
-📫 Email: patel.rishabh@northeastern.edu
+### Connect
 
+- 🌐 Portfolio: [rishabhpateldev.vercel.app](https://rishabhpateldev.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/rishabhpatel15](https://www.linkedin.com/in/rishabhpatel15/)
+- 📫 Email: [patel.rishabh@northeastern.edu](mailto:patel.rishabh@northeastern.edu)
 
-Tech I work with
+---
+
+### Tech I work with
+
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
@@ -46,8 +50,11 @@ Tech I work with
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-GitHub stats
+---
+
+### GitHub stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RishabhP1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhP1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RishabhP1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RishabhP1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
