@@ -11,7 +11,7 @@
 - 🧱 Previously shipped a **distributed workflow engine** at Code Mantra handling 9,000+ DAG-based tasks daily on Kafka, Spring Boot, and AWS EKS
 - 🌱 Going deeper on **Go** and **agentic LLM systems** (orchestration, evaluation, observability)
 - 💬 Ask me about **RAG pipelines, FastAPI + Celery + Redis architectures, Kafka, or Terraform**
-- 📍 Based in Boston, open to backend / infrastructure / applied AI roles
+- 📍 Based in United States, open to backend / infrastructure / applied AI roles
 
 ### Connect
 
