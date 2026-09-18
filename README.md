@@ -50,11 +50,4 @@
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
----
 
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RishabhP1508&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RishabhP1508&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
